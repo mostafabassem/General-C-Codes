@@ -1,6 +1,6 @@
 
 //	Author 			: Mostafa Bassem Heiba
-// 	Description 		: Advanced Encryption ALgorithm (AES) 
+// 	Description 		: Parser
 //  	Date			: 29/11/2015
 
 #include <iostream>
