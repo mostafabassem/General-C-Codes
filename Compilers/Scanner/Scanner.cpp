@@ -1,5 +1,5 @@
 //	Author 			: Mostafa Bassem Heiba
-// 	Description 		: Advanced Encryption ALgorithm (AES) 
+// 	Description 		: Scanner
 //  	Date			: 4/11/2015
 
 #include "stdafx.h"
